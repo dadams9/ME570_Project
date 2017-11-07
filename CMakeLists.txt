@@ -15,9 +15,9 @@ SET(CMAKE_AUTORCC ON)
 
 SET(MYSOURCE
     main.cpp
-    mainwindow.h
-    mainwindow.cpp
-    mainwindow.ui
+    mainscreen.h
+    mainscreen.cpp
+    mainscreen.ui
     )
 
 add_executable(${PROJECT_NAME}
